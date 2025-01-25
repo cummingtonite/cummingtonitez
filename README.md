@@ -11,3 +11,4 @@ Add new utility script
 Update API endpoint
 Fix broken link
 Fix broken link
+Update configuration
