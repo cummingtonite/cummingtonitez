@@ -3,3 +3,4 @@ Improve logging
 Update configuration
 Add new utility script
 Fix broken link
+Improve performance
