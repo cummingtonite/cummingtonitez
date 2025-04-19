@@ -12,3 +12,4 @@ Update API endpoint
 Fix broken link
 Fix broken link
 Update configuration
+Refactor core logic
