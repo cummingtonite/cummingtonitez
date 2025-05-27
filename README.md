@@ -6,3 +6,4 @@ Fix broken link
 Improve performance
 Tweak margin and padding
 Optimize loop
+Improve error handling
